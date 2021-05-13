@@ -1,5 +1,6 @@
 # This is an Underwater ROV project
 
+![Project Image](images/ROV.png)
 We want to build an underwater ROV. The features and objectives of this ROV are
 
 - Simple to build using easily available comodity components.
