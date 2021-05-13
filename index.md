@@ -19,3 +19,6 @@ Currently we plan to use an Arduino. But might have to upgrade to something more
 
 Two wire and serial communication to the Arduino is what we were planning currently. Currently not sure if this can handle the video bandwidth. Moreover the arduino cannot handle the video. The video part of the communication is still TBD.
 
+## Failsafe surfacing
+
+We plan to design the ROV so that it has possitive boyancy. We will add a ejectable weight with a deadmans switch. If the battery or electorics die an normally open solenoid will release the weight causing the ROV to surface automatically.
