@@ -17,4 +17,5 @@ Currently we plan to use an Arduino. But might have to upgrade to something more
 
 ## Communication with surface.
 
-Two wire and serial communication to the Arduino is what we were planning currently.
+Two wire and serial communication to the Arduino is what we were planning currently. Currently not sure if this can handle the video bandwidth. Moreover the arduino cannot handle the video. The video part of the communication is still TBD.
+
